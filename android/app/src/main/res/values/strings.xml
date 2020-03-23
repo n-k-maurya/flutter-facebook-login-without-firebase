@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <resourcces>
     <string name="app_name">neeraj</string>
-    <string name="facebook_app_id">614210042458519</string>
-    <string name="fb_login_protocol_scheme">fb614210042458519</string>
+    <string name="facebook_app_id">#</string>
+    <string name="fb_login_protocol_scheme">#</string>
 
 </resourcces>
